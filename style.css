@@ -1,0 +1,16 @@
+body {
+  font-family: Aria, sans-serif;
+  background-color: aliceblue;
+}
+
+header {
+  background-color: red;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.video {
+  flex: 2;
+  padding: 0 20px;
+}
