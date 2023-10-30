@@ -14,3 +14,13 @@ header {
   flex: 2;
   padding: 0 20px;
 }
+
+main {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 20px auto;
+  background-color: #fff;
+  box-shadow: 0 0 10x rgb(0, 0, 0, 0.2);
+  padding: 20px;
+}
